@@ -1,0 +1,27 @@
+[
+    {
+      "title": "High Tea Food Workshop",
+      "date": "July 15, 2024",
+      "time": "2:00 PM - 5:00 PM",
+      "location": "Culinary Arts Center",
+      "description": "Join us for an elegant high tea workshop where you'll learn to create classic tea-time treats like scones, finger sandwiches, and delicate pastries. Perfect for anyone looking to elevate their afternoon tea experience.",
+      "image": "web image/annie-spratt-c6mdgjKg_hE-unsplash (2).jpg"
+    },
+    {
+      "title": "One-Day Icing Class",
+      "date": "July 20, 2024",
+      "time": "10:00 AM - 4:00 PM",
+      "location": "Baking Studio",
+      "description": "Master the art of cake decorating in this intensive one-day icing class. From basic buttercream techniques to intricate fondant designs, this workshop will enhance your cake decorating skills.",
+      "image": "web image/icing-class.jpg"
+    },
+    {
+      "title": "Vegan Cooking Class",
+      "date": "August 1, 2024",
+      "time": "11:00 AM - 2:00 PM",
+      "location": "Green Kitchen",
+      "description": "Explore the world of vegan cuisine in this hands-on cooking class. Discover new ingredients and techniques to create flavorful and nutritious vegan dishes that everyone will love.",
+      "image": "web image/vegan-cooking.jpg"
+    }
+  ]
+  
